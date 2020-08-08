@@ -117,4 +117,3 @@ Feedstock Maintainers
 =====================
 
 * [@basnijholt](https://github.com/basnijholt/)
-
