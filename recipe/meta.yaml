@@ -1,5 +1,5 @@
 {% set name = "msgfy" %}
-{% set version = "0.2.0" %}
+{% set version = "0.2.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 37c907cccb19afe73ce44111a21b410b685be92c9c44496bc4381fd93c5ad7b6
+  sha256: 161024732591444cc05ca3982a010005932005ec861467dead49349447a91671
 
 build:
   number: 0
